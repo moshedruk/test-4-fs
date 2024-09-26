@@ -9,9 +9,10 @@ class Beeper  {
     public detonated_at?:Date
     public latitude?: number
     public longitude?: number
-    public targets?:Target[]
+    
     constructor(
-        public name:string
+        public name:string,
+        public targets?:Target
     ) {
         
         this.id = +Math.random().toString().split('.')[1];
