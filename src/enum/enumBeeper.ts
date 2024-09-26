@@ -1,7 +1,8 @@
 export enum enumBeeperStatus {
-    MANUFACTURED,
-    ASSEMBLED,
-    SHIPPED,
-    DEPLOYED,
-    DETONATED    
+    MANUFACTURED = "MANUFACTURED",
+    ASSEMBLED = "ASSEMBLED",
+    SHIPPED = "SHIPPED",
+    DEPLOYED = "DEPLOYED",
+    DETONATED = "DETONATED"
+      
 }

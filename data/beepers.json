@@ -1,20 +1,134 @@
 [
   {
-    "name": "np-15",
-    "id": 2319165975276769,
-    "created_At": "2024-09-26T08:10:24.649Z",
-    "status": 0
+    "name": "np-321",
+    "id": 509912009732816,
+    "created_At": "2024-09-26T11:54:18.109Z",
+    "status": "DETONATED"
   },
   {
-    "name": "np-16",
-    "id": 7146276320410996,
-    "created_At": "2024-09-26T08:38:43.474Z",
-    "status": 0
+    "name": "np-565621",
+    "id": 8367942607646899,
+    "created_At": "2024-09-26T12:13:54.425Z",
+    "status": "DETONATED"
   },
   {
-    "name": "np-17",
-    "id": 915402272815554,
-    "created_At": "2024-09-26T08:38:50.286Z",
-    "status": 0
+    "name": "np-621",
+    "id": 26819653771146456,
+    "created_At": "2024-09-26T12:13:59.089Z",
+    "status": "DETONATED"
+  },
+  {
+    "name": "np-62e1",
+    "id": 9254392796027048,
+    "created_At": "2024-09-26T12:30:07.097Z",
+    "status": "DETONATED"
+  },
+  {
+    "name": "np-645452e1",
+    "id": 9425061242406176,
+    "created_At": "2024-09-26T12:46:28.676Z",
+    "status": "DEPLOYED",
+    "latitude": 35.78674,
+    "longitude": 34.59708
+  },
+  {
+    "name": "1234p-w",
+    "id": 519017529982817,
+    "created_At": "2024-09-26T13:06:20.964Z",
+    "status": "DEPLOYED",
+    "latitude": 35.7674,
+    "longitude": 34.59708
+  },
+  {
+    "name": "1234rtrtrtrp-w",
+    "id": 2426485173945132,
+    "created_At": "2024-09-26T13:13:46.902Z",
+    "status": "DEPLOYED",
+    "latitude": 35.78674,
+    "longitude": 34.59708
+  },
+  {
+    "name": "1234rp-w",
+    "id": 768083482729236,
+    "created_At": "2024-09-26T13:20:59.024Z",
+    "status": "DEPLOYED",
+    "latitude": 35.78674,
+    "longitude": 34.59708
+  },
+  {
+    "name": "13434",
+    "id": 9454203946790298,
+    "created_At": "2024-09-26T13:26:10.646Z",
+    "status": "DETONATED",
+    "latitude": 35.78674,
+    "longitude": 34.59708
+  },
+  {
+    "name": "12uiuiu",
+    "id": 4754259059598789,
+    "created_At": "2024-09-26T13:28:14.803Z",
+    "status": "SHIPPED"
+  },
+  {
+    "name": "1234p-",
+    "id": 8626851491403675,
+    "created_At": "2024-09-26T13:31:22.391Z",
+    "status": "DETONATED",
+    "latitude": 35.78674,
+    "longitude": 34.59708
+  },
+  {
+    "name": "jo-0909",
+    "id": 9426062494569264,
+    "created_At": "2024-09-26T13:34:18.591Z",
+    "status": "DETONATED",
+    "latitude": 35.78674,
+    "longitude": 34.59708
+  },
+  {
+    "name": "llll",
+    "id": 3343466160820001,
+    "created_At": "2024-09-26T13:37:22.945Z",
+    "status": "DETONATED",
+    "latitude": 35.78674,
+    "longitude": 34.59708
+  },
+  {
+    "name": "klklk",
+    "id": 7998248823425442,
+    "created_At": "2024-09-26T13:39:03.842Z",
+    "status": "DETONATED",
+    "latitude": 35.78674,
+    "longitude": 34.59708
+  },
+  {
+    "name": ";l;ll;l",
+    "id": 2996042601246276,
+    "created_At": "2024-09-26T13:42:17.389Z",
+    "status": "SHIPPED"
+  },
+  {
+    "name": ";l;",
+    "id": 8870928154110953,
+    "created_At": "2024-09-26T13:59:53.387Z",
+    "status": "SHIPPED",
+    "latitude": 35.78674,
+    "longitude": 34.59708
+  },
+  {
+    "name": "tytyt",
+    "id": 6698890542748359,
+    "created_At": "2024-09-26T14:04:07.233Z",
+    "status": "DEPLOYED",
+    "latitude": 35.78674,
+    "longitude": 34.59708
+  },
+  {
+    "name": "gghhg",
+    "id": 9933985555017660,
+    "created_At": "2024-09-26T14:19:22.545Z",
+    "status": "DETONATED",
+    "latitude": 35.78674,
+    "longitude": 34.59708
   }
 ]
